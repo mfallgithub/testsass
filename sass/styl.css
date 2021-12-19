@@ -7,7 +7,7 @@ body {
   font-family: Roboto, sans-serif;
 }
 
-h1, h3, h4, h5 {
+h1, h2, h3, h4, h5 {
   color: #bad555;
 }
 
@@ -30,4 +30,4 @@ nav ul li a {
   text-decoration: none;
 }
 
-/*# sourceMappingURL=style.scs.map */
+/*# sourceMappingURL=styl.css.map */
